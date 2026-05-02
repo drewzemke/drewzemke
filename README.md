@@ -1,5 +1,1 @@
-👋 Hi, I’m Drew! I do web development professionally but my true interests lie in mathematics and computer graphics.
-
-🌱 I build projects to explore my own curiosity and to learn new skills. I'm currently learning Rust! And maybe WGSL sometime soon.
-
-📫 Find me on LinkedIn (Drew Zemke) or shoot me an email at drew.zemke@gmail.com :)
+Software developer who used to be a mathematician and hence thinks too hard about things sometimes. Writes code by hand in his personal projects even though LLMs can do it ten times faster, because otherwise how would he learn. Enjoys expressive type systems.
