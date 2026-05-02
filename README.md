@@ -1,1 +1,1 @@
-Software developer who used to be a mathematician and hence thinks too hard about things sometimes. Writes code by hand in his personal projects even though LLMs can do it ten times faster, because otherwise how would he learn. Enjoys expressive type systems.
+Software developer who used to be a mathematician and hence thinks too hard about things sometimes. Writes code by hand in his personal projects even though LLMs can do it like ten times faster, because otherwise how would he learn. Enjoys expressive type systems.
